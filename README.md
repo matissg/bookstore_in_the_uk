@@ -6,3 +6,5 @@ Each of guidelines would be done in separate file with the main responsible ment
 4. Social Media Marketing - Annija
 5. Content Marketing - Sandra
 6. Email Marketing - Matīss
+
+Quality over quantity - about 1 page for each topic :)
